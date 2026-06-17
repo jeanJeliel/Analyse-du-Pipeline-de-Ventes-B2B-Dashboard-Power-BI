@@ -15,7 +15,8 @@ Q3 — Analyse temporelle : Quelles sont les tendances et évolutions des ventes
 
 Q4 — Performance catalogue : Est-ce que certains produits ou catégories de produits affichent de meilleurs taux de gain (Win Rate) ?
 
-. Compétences & Outils Déployés
+. Compétences & Outils Déployés :
+
 ETL / Préparation des données : Nettoyage et transformation des données sources avec Power Query.
 
 Modélisation : Mise en place d'un modèle de données optimisé en étoile (Fact & Dimension tables).
